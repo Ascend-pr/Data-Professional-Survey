@@ -15,13 +15,10 @@ This project explores sales data across different U.S. states to uncover trends 
 
 ## 📁 Files Included
 
-| File | Description |
-|------|-------------|
-| `sales_data_usa.csv` | Raw sales data (Kaggle dataset) |
-| `sales_dashboard.pbix` | Power BI dashboard file |
-| `sales_dashboard.png` | Dashboard screenshot |
-| `README.md` | This documentation file |
-
+ Raw sales data (Kaggle dataset) 
+ Power BI dashboard file 
+ Dashboard screenshot
+ This documentation file 
 ---
 
 ## 🧰 Tools Used
